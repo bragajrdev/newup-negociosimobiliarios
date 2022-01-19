@@ -10,4 +10,22 @@ O projeto foi desenvolvido com a utilização de apresentação em "carrossel" e
 
 A logotipo "NewUp" desenvolvida não corresponde a qualquer empresa real, sendo projetada tão somente para fins acadêmicos.
 
+Capturas de tela:
+
+## Tela principal
+</br>
+<img src="readmepresentation/principal.png">
+
+## Tela Locação
+</br>
+<img src="readmepresentation/locacao.png">
+
+## Tela Vendas
+</br>
+<img src="readmepresentation/venda.png">
+
+## Tela Contato
+</br>
+<img src="readmepresentation/contato.png">
+
 
